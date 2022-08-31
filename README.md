@@ -14,4 +14,5 @@ Gym (Boxe).
 
 💬 Reach me by email or LinkedIn! gouhiertitou@gmail.com | https://www.linkedin.com/in/titouan-gouhier-49934a162/
 
-[![Titouan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Titouan72)](https://github.com/Titouan72/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Titouan72)](https://git.io/streak-stats)
+
