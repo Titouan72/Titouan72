@@ -8,13 +8,6 @@ Backend developer at DT9 Affiliations - [St Julian, Malta. 2022]
 Backend developer at Mobile Development - [Angers, France. 2020 - 2021]  
 Backend developer intern at Point com - [Le Mans, France. Srping and Summer 2019]
 
-🌱 Interests:
+💬 Reach me by email or LinkedIn! gouhiertitou@gmail.com | https://www.linkedin.com/in/titouan-gouhier/
 
-Web development.
-Travel
-Gym (Boxe).
-
-💬 Reach me by email or LinkedIn! gouhiertitou@gmail.com | https://www.linkedin.com/in/titouan-gouhier-49934a162/
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Titouan72)](https://git.io/streak-stats)
 
